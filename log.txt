@@ -1,3 +1,4 @@
+c79ded3 Task 2.4: Split loops and extract total calculation helpers
 dd8e66b Task 2.3: Extract usd helper
 ccbe094 Task 2.2: Extract getVolumeCredits
 3e411fd Task 1.2: update git log
