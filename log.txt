@@ -1,3 +1,4 @@
+dd8e66b Task 2.3: Extract usd helper
 ccbe094 Task 2.2: Extract getVolumeCredits
 3e411fd Task 1.2: update git log
 6b0a52c Task 1.1: Fix CheckStyle issues
